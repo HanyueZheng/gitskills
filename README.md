@@ -1,3 +1,3 @@
 # gitskills
 add something
-andddd...
+and add something
